@@ -9,6 +9,10 @@ const name = "Lorenzo";
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+const number = 8;
+const text = "8";
+const bool = true;
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
